@@ -4,6 +4,8 @@ https://medium.com/@ruchivora16/react-how-react-works-under-the-hood-9b621ee69fb
 
 ### Processo
 
+![](./src/assets/react-scam-counter.gif)
+
 Render Phase:
 React recria uma nova árvore de elementos (Virtual DOM) com base no novo estado/props.
 
